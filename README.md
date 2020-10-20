@@ -1,1 +1,1 @@
-# SSL-Payment-Gateway-In-Android-Kotlin
+# SSL Payment Gateway In Android Kotlin
